@@ -3,6 +3,7 @@
   "version": "9.2.0",
   "description": "Server of Miuna shoutbox for Mybb",
   "dependencies" : {
+	"socketio-jwt": "~4.5.0",
 	"socket.io": "~1.4.8",
 	"express" : "~4.14.0",
 	"ejs" : "~2.5.2",
